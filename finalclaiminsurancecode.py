@@ -9,9 +9,7 @@ Original file is located at
 # **DATA SCIENCE AND PATTERN RECOGNITION**
 **Final Project (*Vehicle Insurance Claim Fraud Detection*)** 
 
-Kriti Sharma – 101738430
-Rama Bhargavi Vempolu - 1017440230 
-Hitesh Vilas Sakhare - 101710688
+Hitesh Vilas Sakhare
 
 Insurers can use data science techniques to accurately identify fraudulent claims by implementing analytical tools. 
 These tools can predict whether a claim is fraudulent or not by analyzing historical claim data and policyholder information.
