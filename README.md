@@ -1,5 +1,5 @@
 # CarInsuranceFraudDetection
-## Insatllations
+## Installations
 To run this project install the following libraries.
 - pandas 
 - re
